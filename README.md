@@ -25,6 +25,7 @@ Diez proyectos prácticos, cada uno en su propio repositorio. El 1 es una soluci
 | 8 | [Streaming con Kafka](https://github.com/josemelguizo/de-08-streaming-kafka) | Kafka, ventanas, marcas de agua | 3 | Pendiente |
 | 9 | [CDC con Debezium](https://github.com/josemelguizo/de-09-cdc-debezium) | Change Data Capture, replicación | 3 | Pendiente |
 | 10 | [Plataforma de datos](https://github.com/josemelguizo/de-10-plataforma-datos) | Todo junto: nube, Terraform, CI/CD, dashboard | 4 | Pendiente |
+| 10 · ejemplo | [Lluvia y accidentes en Medellín](https://github.com/josemelguizo/de-10-ejemplo-lluvia-accidentes) | Plataforma completa: contratos, dbt, Airflow, Streamlit | 4 | Referencia |
 
 ## Herramientas
 
