@@ -26,7 +26,7 @@ Diez proyectos prácticos, cada uno en su propio repositorio. El 1 es una soluci
 | 9 | [CDC con Debezium](https://github.com/josemelguizo/de-09-cdc-debezium) | Change Data Capture, replicación | 3 | Pendiente |
 | 10 | [Plataforma de datos](https://github.com/josemelguizo/de-10-plataforma-datos) | Todo junto: nube, Terraform, CI/CD, dashboard | 4 | Pendiente |
 | 10 · ejemplo | [Lluvia y accidentes en Medellín](https://github.com/josemelguizo/de-10-ejemplo-lluvia-accidentes) | Plataforma completa: contratos, dbt, Airflow, Streamlit | 4 | Referencia |
-| 11 | [Cielo de Colombia en vivo](https://github.com/josemelguizo/de-11-vuelos-colombia-en-vivo) | Streaming en vivo: OpenSky, Kafka, procesamiento con estado exactly-once, Streamlit | 4 | Referencia |
+| 11 | [Cielo de Colombia en vivo](https://github.com/josemelguizo/de-11-vuelos-colombia-en-vivo) · [demo](https://cielo-de-colombia.streamlit.app) | Streaming en vivo: OpenSky, Kafka, procesamiento con estado exactly-once, Streamlit | 4 | Referencia |
 
 ## Herramientas
 
